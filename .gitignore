@@ -1,0 +1,10 @@
+# продукты сборки Code::Blocks
+bin/
+obj/
+*.layout
+*.depend
+*.exe
+*.o
+# данные, которые программа создаёт при работе
+*.txt
+!docs/*.txt
